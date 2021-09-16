@@ -1,9 +1,10 @@
 import "./App.css";
+import Test from "./Components/test";
 
 function App() {
   return (
     <div className="App">
-        <h1>App js updated I am sidebar menu branch !!!!!</h1>
+        <Test />
     </div>
   );
 }
