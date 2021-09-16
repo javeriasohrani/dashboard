@@ -1,0 +1,6 @@
+export { default as Dashboard } from './Dashboard'
+export { default as Help } from './Help'
+export { default as Messages } from './Messages'
+export { default as Pages } from './Pages'
+export { default as Roles } from './Roles'
+export { default as Settings } from './Settings'

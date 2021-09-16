@@ -5,11 +5,24 @@ export default function Sidebar() {
     <div className="SidebarMenu-wrap">
       <div className="Sidebar">
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>
+            <a href=""> Dashboard</a>
+          </li>
+          <li>
+            <a href=""> Pages</a>
+          </li>
+          <li>
+            <a href=""></a>
+            Messages
+          </li>
+          <li>
+            <a href=""></a>
+            Settings
+          </li>
+          <li>
+            <a href=""></a>
+            Roles
+          </li>
         </ul>
 
         <ul>
