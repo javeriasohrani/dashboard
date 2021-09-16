@@ -1,0 +1,36 @@
+.signup{
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    background: rgb(200, 214, 219);
+    border-radius: 5px;
+    padding: 20px;
+
+}
+.input{
+padding: 10px;
+margin: 5px;
+border: none;
+margin-left:20px ;
+box-sizing: border-box;
+width: 350px !important;
+}
+input:hover{
+    cursor: pointer;
+}
+input:active{   
+background: springgreen;
+}
+
+.label{
+    font-size: 20px;
+    
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;}
