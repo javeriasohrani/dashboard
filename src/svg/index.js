@@ -1,0 +1,5 @@
+export { default as Circle } from './Circle'
+export { default as Comas } from './Comas'
+export { default as Dots } from './Dots'
+export { default as LShape } from './LShape'
+export { default as Logo } from './Logo'
