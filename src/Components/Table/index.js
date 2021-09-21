@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Test() {
+export default function index(props) {
     return (
         <div>
-             I am test
+                
         </div>
     )
 }

@@ -1,10 +1,10 @@
 import "./App.css";
-import Test from "./Components/test";
+import LoginSignUp from "./Pages/Login Signup/Index";
 
 function App() {
   return (
     <div className="App">
-        <Test />
+      <LoginSignUp />
     </div>
   );
 }

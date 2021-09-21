@@ -1,0 +1,74 @@
+.signup-page {
+    display: flex;
+    flex-wrap: nowrap;
+    min-height: 100vh;
+  }
+  
+  .left-side {
+    box-sizing: border-box;
+    background: #1565d8e5;
+    flex-basis: 45%;
+  }
+  
+  .paragraph p {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+  }
+  
+  .head {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    margin-right: 5px;
+    margin-top: 15px;
+  }
+  
+  .right-side h6 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #8692a6;
+  }
+  
+  .right-side {
+    text-align: right;
+    background: #b5e2e2;
+    flex-basis: 55%;
+  }
+  .right-side a {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    align-items: center;
+    text-align: left;
+    line-height: 50px;
+    margin-right: 30px;
+  }
+  
+  .paragraph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  .head h6 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #ffffff;
+  }
+  
